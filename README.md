@@ -1,7 +1,7 @@
 # C-Calculator
 A simple calculator program developed in C.
 
-## Fatures
+## Features
 
 - Addition
 - Subtraction
